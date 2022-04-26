@@ -1,0 +1,12 @@
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\bin\Debug\FormularioDRCA.exe.config
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\bin\Debug\FormularioDRCA.exe
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\bin\Debug\FormularioDRCA.pdb
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\bin\Debug\FormularioDRCA.xml
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.vbprojResolveAssemblyReference.cache
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.Form1.resources
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.Resources.resources
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.vbproj.GenerateResource.Cache
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.exe
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.xml
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.pdb
+E:\ESCRITORIO\Nueva Progra\FormularioDRCA\FormularioDRCA\obj\Debug\FormularioDRCA.Formreporte2.resources
